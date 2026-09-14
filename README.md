@@ -30,3 +30,17 @@
  `R`  重置比赛 
 
 ## 项目结构
+```PingPongScore/
+├── index.html   # 全部功能（HTML + CSS + JS）
+└── README.md```
+
+
+## 技术说明
+
+- 纯原生 `HTML / CSS / JavaScript`，无任何第三方依赖。
+- 状态通过 `localStorage` 持久化，无后端、无构建步骤。
+- 适配桌面与移动端，支持触屏点击与键盘操作。
+
+## License
+
+MIT
