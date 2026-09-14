@@ -30,9 +30,9 @@
  `R`  重置比赛 
 
 ## 项目结构
-```PingPongScore/
+PingPongScore/
 ├── index.html   # 全部功能（HTML + CSS + JS）
-└── README.md```
+└── README.md
 
 
 ## 技术说明
